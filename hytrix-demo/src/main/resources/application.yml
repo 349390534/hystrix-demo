@@ -1,0 +1,4 @@
+server:
+  port: 8080
+  sessionTimeout: 30
+  contextPath: /
